@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning app development using .NET Technologies.
 - 📫 How to reach me email: osmanovhyus@gmail.com, Facebook: Hyusein Osmanov
 
-<div style="display: flex; justify-content: space-between;">
-    [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hyus314&theme=dracula&layout=donut-vertical)](https://github.com/hyus314/github-readme-stats) [![Hyusein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyus314&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
