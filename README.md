@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning app development using .NET Technologies.
 - 📫 How to reach me email: osmanovhyus@gmail.com, Facebook: Hyusein Osmanov
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hyus314)](https://github.com/hyus314/github-readme-stats)
