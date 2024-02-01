@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hyus314, Hyusein Osmanov
 - 👀 I’m interested in C#, .net Framework and everything about Computer Science!
-- 🌱 I’m currently learning app development using .NET Technologies.
+- 🌱 I’m currently developing my own projects using various programming languages, mostly C#.
 - 📫 How to reach me email: osmanovhyus@gmail.com, Facebook: Hyusein Osmanov
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
