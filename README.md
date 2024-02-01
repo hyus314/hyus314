@@ -4,8 +4,8 @@
 - 📫 How to reach me email: osmanovhyus@gmail.com, Facebook: Hyusein Osmanov
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hyus314&theme=dracula" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=hyus314&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyus314&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyus314&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
